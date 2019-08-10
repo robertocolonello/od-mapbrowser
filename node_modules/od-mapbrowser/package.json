@@ -1,0 +1,21 @@
+{
+  "name": "webmaptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polymer/iron-demo-helpers": "^3.1.0",
+    "@webcomponents/webcomponentsjs": "^2.2.10",
+    "google-maps-limited": "^1.0.0",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "lit-element": "^2.2.1",
+    "request": "^2.88.0",
+    "wct-browser-legacy": "^1.0.2"
+  }
+}
